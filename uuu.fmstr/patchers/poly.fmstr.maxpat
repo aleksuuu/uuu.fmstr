@@ -29,6 +29,10 @@
                     "numinlets": 1,
                     "numoutlets": 0,
                     "patching_rect": [ 162.9765397310257, 698.8636296987534, 42.0, 22.0 ],
+                    "saved_object_attributes": {
+                        "attr_comment": "",
+                        "c": ""
+                    },
                     "text": "out~ 2"
                 }
             },
@@ -152,6 +156,10 @@
                     "numinlets": 1,
                     "numoutlets": 0,
                     "patching_rect": [ 101.61290395259857, 698.8636296987534, 42.0, 22.0 ],
+                    "saved_object_attributes": {
+                        "attr_comment": "",
+                        "c": ""
+                    },
                     "text": "out~ 1"
                 }
             },
@@ -250,7 +258,7 @@
                     "numinlets": 1,
                     "numoutlets": 1,
                     "outlettype": [ "" ],
-                    "patching_rect": [ 719.1780298948288, 35.61643576622009, 247.0, 22.0 ],
+                    "patching_rect": [ 926.0273299217224, 71.23287153244019, 247.0, 22.0 ],
                     "saved_object_attributes": {
                         "attr_comment": "ADSR from live.adsrui",
                         "c": "ADSR from live.adsrui"
@@ -298,7 +306,7 @@
                     "numinlets": 2,
                     "numoutlets": 1,
                     "outlettype": [ "float" ],
-                    "patching_rect": [ 920.5478782653809, 254.7945020198822, 39.0, 22.0 ],
+                    "patching_rect": [ 887.0, 255.0, 39.0, 22.0 ],
                     "text": "/ 127."
                 }
             },
