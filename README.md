@@ -4,7 +4,7 @@ An FM-modulated Karplus-Strong string, plucked at audio rate.
 
 ## To run in Max
 
-Use `uuu.fmstr.maxpat` in the top directory.
+Use `uuu.fmstr.maxpat` in the top directory. Make sure to keep all the other files in the directory.
 
 ## To run in Ableton Live
 
